@@ -6,7 +6,7 @@
 https://noobtuts.com/unity/2d-snake-game
 
 # Game Screenshots
-![game screenshot](file:///Users/tahminakhakimov/Desktop/Screen%20Shot%202023-01-31%20at%2010.15.52%20PM.png "Optional title")
+![game screenshot](https://github.com/SherCS/Snake/blob/main/Screen%20Shot%202023-01-31%20at%2010.15.52%20PM.png)
 
 
 ## **Lets work!** 
